@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 - 👋 Hi, I’m @cavanes1
 - 👀 I’m studying quantum chemistry
 - 🌱 I’m using GitHub as I do my research
