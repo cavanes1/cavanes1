@@ -4,6 +4,7 @@
 - 🌱 I’m using GitHub as I do my research
 
 <!---
+Things to add in the future:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
