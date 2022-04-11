@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 - 👋 Hi, I’m @cavanes1
-- 👀 I’m studying quantum chemistry at Johns Hopkins University
+- 👀 I’m doing research on quantum chemistry at Johns Hopkins University
 - 🌱 I’m using GitHub as I do my research
 
 <!---
