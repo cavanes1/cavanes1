@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 - 👋 Hi, I’m @cavanes1
 - 👀 I’m a first-year graduate student at Johns Hopkins University doing research on quantum chemistry
-- 🌱 I’m using GitHub as I do my research
+- 🌱 I’m using GitHub to manage the tools I use in my research
 
 <!---
 Not: gitartwork is no longer updating
