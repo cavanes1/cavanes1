@@ -4,8 +4,6 @@
 - 🌱 I’m using GitHub to manage the tools I use in my research
 
 <!---
-Not: gitartwork is no longer updating
-
 Things to add in the future:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
