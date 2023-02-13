@@ -30,13 +30,13 @@
     }
 @keyframes c0 {
                 from {
-transform: rotate(610deg)
+transform: rotate(-298deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c0 {
@@ -44,13 +44,13 @@ transform: rotate(0deg)
             }
 @keyframes c1 {
                 from {
-transform: rotate(485deg)
+transform: rotate(-567deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
 .c.c1 {
@@ -58,7 +58,7 @@ transform: rotate(0deg)
             }
 @keyframes c2 {
                 from {
-transform: rotate(114deg)
+transform: rotate(-409deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -72,35 +72,7 @@ transform: rotate(0deg)
             }
 @keyframes c3 {
                 from {
-transform: rotate(-603deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c3 {
-                animation-name: c3
-            }
-@keyframes c4 {
-                from {
-transform: rotate(350deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c4 {
-                animation-name: c4
-            }
-@keyframes c5 {
-                from {
-transform: rotate(21deg)
+transform: rotate(377deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -109,12 +81,54 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
+.c.c3 {
+                animation-name: c3
+            }
+@keyframes c4 {
+                from {
+transform: rotate(-587deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c4 {
+                animation-name: c4
+            }
+@keyframes c5 {
+                from {
+transform: rotate(161deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c5 {
                 animation-name: c5
             }
 @keyframes c6 {
                 from {
-transform: rotate(-558deg)
+transform: rotate(664deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c6 {
+                animation-name: c6
+            }
+@keyframes c7 {
+                from {
+transform: rotate(-345deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -123,32 +137,18 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c6 {
-                animation-name: c6
-            }
-@keyframes c7 {
-                from {
-transform: rotate(-117deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
 .c.c7 {
                 animation-name: c7
             }
 @keyframes c8 {
                 from {
-transform: rotate(-288deg)
+transform: rotate(551deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c1)
                 }
             }
 .c.c8 {
@@ -156,21 +156,7 @@ transform: rotate(0deg)
             }
 @keyframes c9 {
                 from {
-transform: rotate(-393deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c9 {
-                animation-name: c9
-            }
-@keyframes c10 {
-                from {
-transform: rotate(-269deg)
+transform: rotate(11deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -179,12 +165,26 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
+.c.c9 {
+                animation-name: c9
+            }
+@keyframes c10 {
+                from {
+transform: rotate(-277deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
 .c.c10 {
                 animation-name: c10
             }
 @keyframes c11 {
                 from {
-transform: rotate(406deg)
+transform: rotate(101deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -198,13 +198,13 @@ transform: rotate(0deg)
             }
 @keyframes c12 {
                 from {
-transform: rotate(60deg)
+transform: rotate(686deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c12 {
@@ -212,13 +212,13 @@ transform: rotate(0deg)
             }
 @keyframes c13 {
                 from {
-transform: rotate(-314deg)
+transform: rotate(-412deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c13 {
@@ -226,49 +226,7 @@ transform: rotate(0deg)
             }
 @keyframes c14 {
                 from {
-transform: rotate(456deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c14 {
-                animation-name: c14
-            }
-@keyframes c15 {
-                from {
-transform: rotate(-59deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c15 {
-                animation-name: c15
-            }
-@keyframes c16 {
-                from {
-transform: rotate(93deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c16 {
-                animation-name: c16
-            }
-@keyframes c17 {
-                from {
-transform: rotate(399deg)
+transform: rotate(-687deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -277,12 +235,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c17 {
-                animation-name: c17
+.c.c14 {
+                animation-name: c14
             }
-@keyframes c18 {
+@keyframes c15 {
                 from {
-transform: rotate(104deg)
+transform: rotate(-572deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -291,12 +249,54 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c15 {
+                animation-name: c15
+            }
+@keyframes c16 {
+                from {
+transform: rotate(-132deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c16 {
+                animation-name: c16
+            }
+@keyframes c17 {
+                from {
+transform: rotate(-222deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c17 {
+                animation-name: c17
+            }
+@keyframes c18 {
+                from {
+transform: rotate(203deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
 .c.c18 {
                 animation-name: c18
             }
 @keyframes c19 {
                 from {
-transform: rotate(176deg)
+transform: rotate(680deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -310,49 +310,7 @@ transform: rotate(0deg)
             }
 @keyframes c20 {
                 from {
-transform: rotate(-524deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c20 {
-                animation-name: c20
-            }
-@keyframes c21 {
-                from {
-transform: rotate(446deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c21 {
-                animation-name: c21
-            }
-@keyframes c22 {
-                from {
-transform: rotate(-593deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c22 {
-                animation-name: c22
-            }
-@keyframes c23 {
-                from {
-transform: rotate(-20deg)
+transform: rotate(637deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -361,12 +319,54 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
+.c.c20 {
+                animation-name: c20
+            }
+@keyframes c21 {
+                from {
+transform: rotate(-400deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c21 {
+                animation-name: c21
+            }
+@keyframes c22 {
+                from {
+transform: rotate(-505deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c22 {
+                animation-name: c22
+            }
+@keyframes c23 {
+                from {
+transform: rotate(68deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c23 {
                 animation-name: c23
             }
 @keyframes c24 {
                 from {
-transform: rotate(526deg)
+transform: rotate(-472deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -380,13 +380,13 @@ transform: rotate(0deg)
             }
 @keyframes c25 {
                 from {
-transform: rotate(-98deg)
+transform: rotate(399deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c3)
                 }
             }
 .c.c25 {
@@ -394,21 +394,7 @@ transform: rotate(0deg)
             }
 @keyframes c26 {
                 from {
-transform: rotate(-309deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c26 {
-                animation-name: c26
-            }
-@keyframes c27 {
-                from {
-transform: rotate(462deg)
+transform: rotate(409deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -417,12 +403,40 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
+.c.c26 {
+                animation-name: c26
+            }
+@keyframes c27 {
+                from {
+transform: rotate(-36deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
 .c.c27 {
                 animation-name: c27
             }
 @keyframes c28 {
                 from {
-transform: rotate(-156deg)
+transform: rotate(-538deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c28 {
+                animation-name: c28
+            }
+@keyframes c29 {
+                from {
+transform: rotate(159deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -431,32 +445,18 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c28 {
-                animation-name: c28
-            }
-@keyframes c29 {
-                from {
-transform: rotate(709deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
 .c.c29 {
                 animation-name: c29
             }
 @keyframes c30 {
                 from {
-transform: rotate(-482deg)
+transform: rotate(88deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c2)
                 }
             }
 .c.c30 {
@@ -464,7 +464,7 @@ transform: rotate(0deg)
             }
 @keyframes c31 {
                 from {
-transform: rotate(229deg)
+transform: rotate(359deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -478,13 +478,13 @@ transform: rotate(0deg)
             }
 @keyframes c32 {
                 from {
-transform: rotate(460deg)
+transform: rotate(-53deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c3)
                 }
             }
 .c.c32 {
@@ -492,7 +492,7 @@ transform: rotate(0deg)
             }
 @keyframes c33 {
                 from {
-transform: rotate(-480deg)
+transform: rotate(-284deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -506,7 +506,7 @@ transform: rotate(0deg)
             }
 @keyframes c34 {
                 from {
-transform: rotate(216deg)
+transform: rotate(602deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -520,13 +520,13 @@ transform: rotate(0deg)
             }
 @keyframes c35 {
                 from {
-transform: rotate(416deg)
+transform: rotate(-342deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c35 {
@@ -534,105 +534,7 @@ transform: rotate(0deg)
             }
 @keyframes c36 {
                 from {
-transform: rotate(-406deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c36 {
-                animation-name: c36
-            }
-@keyframes c37 {
-                from {
-transform: rotate(-202deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c37 {
-                animation-name: c37
-            }
-@keyframes c38 {
-                from {
-transform: rotate(527deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c38 {
-                animation-name: c38
-            }
-@keyframes c39 {
-                from {
-transform: rotate(335deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c39 {
-                animation-name: c39
-            }
-@keyframes c40 {
-                from {
-transform: rotate(-642deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c40 {
-                animation-name: c40
-            }
-@keyframes c41 {
-                from {
-transform: rotate(76deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c41 {
-                animation-name: c41
-            }
-@keyframes c42 {
-                from {
-transform: rotate(32deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c42 {
-                animation-name: c42
-            }
-@keyframes c43 {
-                from {
-transform: rotate(-90deg)
+transform: rotate(-412deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -641,26 +543,26 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c43 {
-                animation-name: c43
+.c.c36 {
+                animation-name: c36
             }
-@keyframes c44 {
+@keyframes c37 {
                 from {
-transform: rotate(181deg)
+transform: rotate(506deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c4)
                 }
             }
-.c.c44 {
-                animation-name: c44
+.c.c37 {
+                animation-name: c37
             }
-@keyframes c45 {
+@keyframes c38 {
                 from {
-transform: rotate(136deg)
+transform: rotate(-217deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -669,12 +571,110 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c38 {
+                animation-name: c38
+            }
+@keyframes c39 {
+                from {
+transform: rotate(-493deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c39 {
+                animation-name: c39
+            }
+@keyframes c40 {
+                from {
+transform: rotate(-345deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c40 {
+                animation-name: c40
+            }
+@keyframes c41 {
+                from {
+transform: rotate(-196deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c41 {
+                animation-name: c41
+            }
+@keyframes c42 {
+                from {
+transform: rotate(82deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c42 {
+                animation-name: c42
+            }
+@keyframes c43 {
+                from {
+transform: rotate(480deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c43 {
+                animation-name: c43
+            }
+@keyframes c44 {
+                from {
+transform: rotate(-526deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c44 {
+                animation-name: c44
+            }
+@keyframes c45 {
+                from {
+transform: rotate(132deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c45 {
                 animation-name: c45
             }
 @keyframes c46 {
                 from {
-transform: rotate(-362deg)
+transform: rotate(-697deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -688,21 +688,7 @@ transform: rotate(0deg)
             }
 @keyframes c47 {
                 from {
-transform: rotate(-416deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c47 {
-                animation-name: c47
-            }
-@keyframes c48 {
-                from {
-transform: rotate(-38deg)
+transform: rotate(-351deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -711,12 +697,26 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
+.c.c47 {
+                animation-name: c47
+            }
+@keyframes c48 {
+                from {
+transform: rotate(-491deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c48 {
                 animation-name: c48
             }
 @keyframes c49 {
                 from {
-transform: rotate(-601deg)
+transform: rotate(-321deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -730,13 +730,13 @@ transform: rotate(0deg)
             }
 @keyframes c50 {
                 from {
-transform: rotate(-62deg)
+transform: rotate(608deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c50 {
@@ -744,21 +744,7 @@ transform: rotate(0deg)
             }
 @keyframes c51 {
                 from {
-transform: rotate(-326deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c51 {
-                animation-name: c51
-            }
-@keyframes c52 {
-                from {
-transform: rotate(198deg)
+transform: rotate(316deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -767,12 +753,26 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
+.c.c51 {
+                animation-name: c51
+            }
+@keyframes c52 {
+                from {
+transform: rotate(-178deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c52 {
                 animation-name: c52
             }
 @keyframes c53 {
                 from {
-transform: rotate(69deg)
+transform: rotate(435deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -786,21 +786,7 @@ transform: rotate(0deg)
             }
 @keyframes c54 {
                 from {
-transform: rotate(200deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c54 {
-                animation-name: c54
-            }
-@keyframes c55 {
-                from {
-transform: rotate(454deg)
+transform: rotate(663deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -809,18 +795,32 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c55 {
-                animation-name: c55
+.c.c54 {
+                animation-name: c54
             }
-@keyframes c56 {
+@keyframes c55 {
                 from {
-transform: rotate(486deg)
+transform: rotate(230deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
                     fill: var(--c3)
+                }
+            }
+.c.c55 {
+                animation-name: c55
+            }
+@keyframes c56 {
+                from {
+transform: rotate(134deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
                 }
             }
 .c.c56 {
@@ -828,13 +828,13 @@ transform: rotate(0deg)
             }
 @keyframes c57 {
                 from {
-transform: rotate(-442deg)
+transform: rotate(70deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c2)
                 }
             }
 .c.c57 {
@@ -842,21 +842,7 @@ transform: rotate(0deg)
             }
 @keyframes c58 {
                 from {
-transform: rotate(5deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c58 {
-                animation-name: c58
-            }
-@keyframes c59 {
-                from {
-transform: rotate(-280deg)
+transform: rotate(-18deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -865,18 +851,32 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c59 {
-                animation-name: c59
+.c.c58 {
+                animation-name: c58
             }
-@keyframes c60 {
+@keyframes c59 {
                 from {
-transform: rotate(-462deg)
+transform: rotate(83deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
+                }
+            }
+.c.c59 {
+                animation-name: c59
+            }
+@keyframes c60 {
+                from {
+transform: rotate(-420deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
                 }
             }
 .c.c60 {
@@ -884,7 +884,7 @@ transform: rotate(0deg)
             }
 @keyframes c61 {
                 from {
-transform: rotate(-426deg)
+transform: rotate(94deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -898,7 +898,35 @@ transform: rotate(0deg)
             }
 @keyframes c62 {
                 from {
-transform: rotate(682deg)
+transform: rotate(-196deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c62 {
+                animation-name: c62
+            }
+@keyframes c63 {
+                from {
+transform: rotate(-634deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c63 {
+                animation-name: c63
+            }
+@keyframes c64 {
+                from {
+transform: rotate(-385deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -907,40 +935,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c62 {
-                animation-name: c62
-            }
-@keyframes c63 {
-                from {
-transform: rotate(657deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c63 {
-                animation-name: c63
-            }
-@keyframes c64 {
-                from {
-transform: rotate(73deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
 .c.c64 {
                 animation-name: c64
             }
 @keyframes c65 {
                 from {
-transform: rotate(-632deg)
+transform: rotate(544deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -954,13 +954,13 @@ transform: rotate(0deg)
             }
 @keyframes c66 {
                 from {
-transform: rotate(-355deg)
+transform: rotate(-3deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c66 {
@@ -968,7 +968,7 @@ transform: rotate(0deg)
             }
 @keyframes c67 {
                 from {
-transform: rotate(638deg)
+transform: rotate(412deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -982,7 +982,7 @@ transform: rotate(0deg)
             }
 @keyframes c68 {
                 from {
-transform: rotate(-625deg)
+transform: rotate(587deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -996,7 +996,7 @@ transform: rotate(0deg)
             }
 @keyframes c69 {
                 from {
-transform: rotate(204deg)
+transform: rotate(-384deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1010,13 +1010,13 @@ transform: rotate(0deg)
             }
 @keyframes c70 {
                 from {
-transform: rotate(60deg)
+transform: rotate(-561deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c3)
                 }
             }
 .c.c70 {
@@ -1024,35 +1024,7 @@ transform: rotate(0deg)
             }
 @keyframes c71 {
                 from {
-transform: rotate(139deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c71 {
-                animation-name: c71
-            }
-@keyframes c72 {
-                from {
-transform: rotate(113deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c72 {
-                animation-name: c72
-            }
-@keyframes c73 {
-                from {
-transform: rotate(347deg)
+transform: rotate(401deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1061,18 +1033,46 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
-.c.c73 {
-                animation-name: c73
+.c.c71 {
+                animation-name: c71
             }
-@keyframes c74 {
+@keyframes c72 {
                 from {
-transform: rotate(-510deg)
+transform: rotate(-472deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
+                }
+            }
+.c.c72 {
+                animation-name: c72
+            }
+@keyframes c73 {
+                from {
+transform: rotate(-571deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c73 {
+                animation-name: c73
+            }
+@keyframes c74 {
+                from {
+transform: rotate(-379deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
                 }
             }
 .c.c74 {
@@ -1080,7 +1080,7 @@ transform: rotate(0deg)
             }
 @keyframes c75 {
                 from {
-transform: rotate(302deg)
+transform: rotate(-507deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1094,13 +1094,13 @@ transform: rotate(0deg)
             }
 @keyframes c76 {
                 from {
-transform: rotate(-507deg)
+transform: rotate(312deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c1)
                 }
             }
 .c.c76 {
@@ -1108,13 +1108,13 @@ transform: rotate(0deg)
             }
 @keyframes c77 {
                 from {
-transform: rotate(442deg)
+transform: rotate(-340deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c4)
                 }
             }
 .c.c77 {
@@ -1122,13 +1122,13 @@ transform: rotate(0deg)
             }
 @keyframes c78 {
                 from {
-transform: rotate(92deg)
+transform: rotate(-436deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c2)
                 }
             }
 .c.c78 {
@@ -1136,13 +1136,13 @@ transform: rotate(0deg)
             }
 @keyframes c79 {
                 from {
-transform: rotate(-357deg)
+transform: rotate(466deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c4)
+                    fill: var(--c2)
                 }
             }
 .c.c79 {
@@ -1150,13 +1150,13 @@ transform: rotate(0deg)
             }
 @keyframes c80 {
                 from {
-transform: rotate(-594deg)
+transform: rotate(-4deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c1)
+                    fill: var(--c3)
                 }
             }
 .c.c80 {
@@ -1164,77 +1164,7 @@ transform: rotate(0deg)
             }
 @keyframes c81 {
                 from {
-transform: rotate(184deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c81 {
-                animation-name: c81
-            }
-@keyframes c82 {
-                from {
-transform: rotate(387deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c82 {
-                animation-name: c82
-            }
-@keyframes c83 {
-                from {
-transform: rotate(-470deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c83 {
-                animation-name: c83
-            }
-@keyframes c84 {
-                from {
-transform: rotate(-174deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c84 {
-                animation-name: c84
-            }
-@keyframes c85 {
-                from {
-transform: rotate(-515deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c85 {
-                animation-name: c85
-            }
-@keyframes c86 {
-                from {
-transform: rotate(308deg)
+transform: rotate(-127deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1243,12 +1173,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c86 {
-                animation-name: c86
+.c.c81 {
+                animation-name: c81
             }
-@keyframes c87 {
+@keyframes c82 {
                 from {
-transform: rotate(82deg)
+transform: rotate(-205deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1257,12 +1187,40 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c87 {
-                animation-name: c87
+.c.c82 {
+                animation-name: c82
             }
-@keyframes c88 {
+@keyframes c83 {
                 from {
-transform: rotate(-497deg)
+transform: rotate(55deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c83 {
+                animation-name: c83
+            }
+@keyframes c84 {
+                from {
+transform: rotate(47deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c84 {
+                animation-name: c84
+            }
+@keyframes c85 {
+                from {
+transform: rotate(371deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1271,12 +1229,12 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
-.c.c88 {
-                animation-name: c88
+.c.c85 {
+                animation-name: c85
             }
-@keyframes c89 {
+@keyframes c86 {
                 from {
-transform: rotate(-191deg)
+transform: rotate(-176deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1285,12 +1243,54 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c86 {
+                animation-name: c86
+            }
+@keyframes c87 {
+                from {
+transform: rotate(495deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c87 {
+                animation-name: c87
+            }
+@keyframes c88 {
+                from {
+transform: rotate(-268deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c88 {
+                animation-name: c88
+            }
+@keyframes c89 {
+                from {
+transform: rotate(383deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
 .c.c89 {
                 animation-name: c89
             }
 @keyframes c90 {
                 from {
-transform: rotate(-91deg)
+transform: rotate(243deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1304,13 +1304,13 @@ transform: rotate(0deg)
             }
 @keyframes c91 {
                 from {
-transform: rotate(-419deg)
+transform: rotate(120deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c2)
+                    fill: var(--c3)
                 }
             }
 .c.c91 {
@@ -1318,7 +1318,7 @@ transform: rotate(0deg)
             }
 @keyframes c92 {
                 from {
-transform: rotate(710deg)
+transform: rotate(392deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1332,7 +1332,7 @@ transform: rotate(0deg)
             }
 @keyframes c93 {
                 from {
-transform: rotate(-604deg)
+transform: rotate(200deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1346,13 +1346,13 @@ transform: rotate(0deg)
             }
 @keyframes c94 {
                 from {
-transform: rotate(520deg)
+transform: rotate(238deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c94 {
@@ -1360,7 +1360,7 @@ transform: rotate(0deg)
             }
 @keyframes c95 {
                 from {
-transform: rotate(-463deg)
+transform: rotate(-83deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1374,7 +1374,7 @@ transform: rotate(0deg)
             }
 @keyframes c96 {
                 from {
-transform: rotate(-185deg)
+transform: rotate(466deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1388,7 +1388,35 @@ transform: rotate(0deg)
             }
 @keyframes c97 {
                 from {
-transform: rotate(699deg)
+transform: rotate(-108deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c2)
+                }
+            }
+.c.c97 {
+                animation-name: c97
+            }
+@keyframes c98 {
+                from {
+transform: rotate(-226deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c98 {
+                animation-name: c98
+            }
+@keyframes c99 {
+                from {
+transform: rotate(-533deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1397,12 +1425,12 @@ transform: rotate(0deg)
                     fill: var(--c4)
                 }
             }
-.c.c97 {
-                animation-name: c97
+.c.c99 {
+                animation-name: c99
             }
-@keyframes c98 {
+@keyframes c100 {
                 from {
-transform: rotate(-509deg)
+transform: rotate(468deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1411,40 +1439,12 @@ transform: rotate(0deg)
                     fill: var(--c3)
                 }
             }
-.c.c98 {
-                animation-name: c98
-            }
-@keyframes c99 {
-                from {
-transform: rotate(297deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
-.c.c99 {
-                animation-name: c99
-            }
-@keyframes c100 {
-                from {
-transform: rotate(508deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c1)
-                }
-            }
 .c.c100 {
                 animation-name: c100
             }
 @keyframes c101 {
                 from {
-transform: rotate(283deg)
+transform: rotate(61deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1458,7 +1458,7 @@ transform: rotate(0deg)
             }
 @keyframes c102 {
                 from {
-transform: rotate(-507deg)
+transform: rotate(-342deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1472,21 +1472,7 @@ transform: rotate(0deg)
             }
 @keyframes c103 {
                 from {
-transform: rotate(173deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c103 {
-                animation-name: c103
-            }
-@keyframes c104 {
-                from {
-transform: rotate(-434deg)
+transform: rotate(196deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1495,12 +1481,26 @@ transform: rotate(0deg)
                     fill: var(--c2)
                 }
             }
+.c.c103 {
+                animation-name: c103
+            }
+@keyframes c104 {
+                from {
+transform: rotate(214deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c104 {
                 animation-name: c104
             }
 @keyframes c105 {
                 from {
-transform: rotate(-256deg)
+transform: rotate(-713deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1514,91 +1514,7 @@ transform: rotate(0deg)
             }
 @keyframes c106 {
                 from {
-transform: rotate(-318deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c106 {
-                animation-name: c106
-            }
-@keyframes c107 {
-                from {
-transform: rotate(-325deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c107 {
-                animation-name: c107
-            }
-@keyframes c108 {
-                from {
-transform: rotate(-200deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c108 {
-                animation-name: c108
-            }
-@keyframes c109 {
-                from {
-transform: rotate(-91deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c109 {
-                animation-name: c109
-            }
-@keyframes c110 {
-                from {
-transform: rotate(604deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c110 {
-                animation-name: c110
-            }
-@keyframes c111 {
-                from {
-transform: rotate(-581deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c111 {
-                animation-name: c111
-            }
-@keyframes c112 {
-                from {
-transform: rotate(664deg)
+transform: rotate(91deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1607,12 +1523,96 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c106 {
+                animation-name: c106
+            }
+@keyframes c107 {
+                from {
+transform: rotate(-576deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c107 {
+                animation-name: c107
+            }
+@keyframes c108 {
+                from {
+transform: rotate(-246deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c108 {
+                animation-name: c108
+            }
+@keyframes c109 {
+                from {
+transform: rotate(-14deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c109 {
+                animation-name: c109
+            }
+@keyframes c110 {
+                from {
+transform: rotate(528deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
+.c.c110 {
+                animation-name: c110
+            }
+@keyframes c111 {
+                from {
+transform: rotate(-215deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
+.c.c111 {
+                animation-name: c111
+            }
+@keyframes c112 {
+                from {
+transform: rotate(287deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c4)
+                }
+            }
 .c.c112 {
                 animation-name: c112
             }
 @keyframes c113 {
                 from {
-transform: rotate(-574deg)
+transform: rotate(-689deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1626,7 +1626,7 @@ transform: rotate(0deg)
             }
 @keyframes c114 {
                 from {
-transform: rotate(-212deg)
+transform: rotate(-138deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1640,63 +1640,7 @@ transform: rotate(0deg)
             }
 @keyframes c115 {
                 from {
-transform: rotate(-30deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c4)
-                }
-            }
-.c.c115 {
-                animation-name: c115
-            }
-@keyframes c116 {
-                from {
-transform: rotate(454deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c116 {
-                animation-name: c116
-            }
-@keyframes c117 {
-                from {
-transform: rotate(-438deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c3)
-                }
-            }
-.c.c117 {
-                animation-name: c117
-            }
-@keyframes c118 {
-                from {
-transform: rotate(-204deg)
-                }
-                60% {
-transform: rotate(0deg)
-                }
-                to {
-                    fill: var(--c2)
-                }
-            }
-.c.c118 {
-                animation-name: c118
-            }
-@keyframes c119 {
-                from {
-transform: rotate(-135deg)
+transform: rotate(-60deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1705,12 +1649,68 @@ transform: rotate(0deg)
                     fill: var(--c1)
                 }
             }
+.c.c115 {
+                animation-name: c115
+            }
+@keyframes c116 {
+                from {
+transform: rotate(-406deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c116 {
+                animation-name: c116
+            }
+@keyframes c117 {
+                from {
+transform: rotate(657deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c117 {
+                animation-name: c117
+            }
+@keyframes c118 {
+                from {
+transform: rotate(-239deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c1)
+                }
+            }
+.c.c118 {
+                animation-name: c118
+            }
+@keyframes c119 {
+                from {
+transform: rotate(716deg)
+                }
+                60% {
+transform: rotate(0deg)
+                }
+                to {
+                    fill: var(--c3)
+                }
+            }
 .c.c119 {
                 animation-name: c119
             }
 @keyframes c120 {
                 from {
-transform: rotate(-477deg)
+transform: rotate(647deg)
                 }
                 60% {
 transform: rotate(0deg)
@@ -1724,13 +1724,13 @@ transform: rotate(0deg)
             }
 @keyframes c121 {
                 from {
-transform: rotate(258deg)
+transform: rotate(644deg)
                 }
                 60% {
 transform: rotate(0deg)
                 }
                 to {
-                    fill: var(--c3)
+                    fill: var(--c1)
                 }
             }
 .c.c121 {
@@ -1740,7 +1740,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                78%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -1762,7 +1762,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                35%, to {
+                40%, to {
                     fill: var(--c0);
                 }
             }
@@ -1773,7 +1773,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                75%, to {
+                82%, to {
                     fill: var(--c0);
                 }
             }
@@ -1784,7 +1784,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                38%, to {
+                9%, to {
                     fill: var(--c0);
                 }
             }
@@ -1795,7 +1795,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                86%, to {
+                65%, to {
                     fill: var(--c0);
                 }
             }
@@ -1806,7 +1806,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                33%, to {
+                47%, to {
                     fill: var(--c0);
                 }
             }
@@ -1817,7 +1817,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                29%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -1828,7 +1828,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                57%, to {
+                82%, to {
                     fill: var(--c0);
                 }
             }
@@ -1839,7 +1839,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                72%, to {
+                74%, to {
                     fill: var(--c0);
                 }
             }
@@ -1850,7 +1850,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                30%, to {
+                31%, to {
                     fill: var(--c0);
                 }
             }
@@ -1861,7 +1861,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                54%, to {
+                28%, to {
                     fill: var(--c0);
                 }
             }
@@ -1872,7 +1872,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                23%, to {
+                33%, to {
                     fill: var(--c0);
                 }
             }
@@ -1883,7 +1883,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                11%, to {
+                32%, to {
                     fill: var(--c0);
                 }
             }
@@ -1894,7 +1894,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                41%, to {
+                10%, to {
                     fill: var(--c0);
                 }
             }
@@ -1905,7 +1905,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                85%, to {
+                38%, to {
                     fill: var(--c0);
                 }
             }
@@ -1916,7 +1916,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                25%, to {
+                13%, to {
                     fill: var(--c0);
                 }
             }
@@ -1927,7 +1927,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                83%, to {
+                51%, to {
                     fill: var(--c0);
                 }
             }
@@ -1938,7 +1938,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                26%, to {
+                57%, to {
                     fill: var(--c0);
                 }
             }
@@ -1960,7 +1960,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                51%, to {
+                1%, to {
                     fill: var(--c0);
                 }
             }
@@ -1971,7 +1971,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                35%, to {
+                43%, to {
                     fill: var(--c0);
                 }
             }
@@ -1982,7 +1982,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                65%, to {
+                27%, to {
                     fill: var(--c0);
                 }
             }
@@ -1993,7 +1993,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                24%, to {
+                57%, to {
                     fill: var(--c0);
                 }
             }
@@ -2004,7 +2004,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                49%, to {
+                33%, to {
                     fill: var(--c0);
                 }
             }
@@ -2015,7 +2015,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                27%, to {
+                75%, to {
                     fill: var(--c0);
                 }
             }
@@ -2026,7 +2026,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                61%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -2037,7 +2037,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                66%, to {
+                6%, to {
                     fill: var(--c0);
                 }
             }
@@ -2048,7 +2048,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                55%, to {
+                68%, to {
                     fill: var(--c0);
                 }
             }
@@ -2059,7 +2059,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                80%, to {
+                22%, to {
                     fill: var(--c0);
                 }
             }
@@ -2070,7 +2070,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                10%, to {
+                18%, to {
                     fill: var(--c0);
                 }
             }
@@ -2081,7 +2081,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                27%, to {
+                76%, to {
                     fill: var(--c0);
                 }
             }
@@ -2092,7 +2092,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                61%, to {
+                69%, to {
                     fill: var(--c0);
                 }
             }
@@ -2103,7 +2103,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                57%, to {
+                26%, to {
                     fill: var(--c0);
                 }
             }
@@ -2114,7 +2114,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                55%, to {
+                60%, to {
                     fill: var(--c0);
                 }
             }
@@ -2125,7 +2125,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                19%, to {
+                10%, to {
                     fill: var(--c0);
                 }
             }
@@ -2136,7 +2136,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                62%, to {
+                53%, to {
                     fill: var(--c0);
                 }
             }
@@ -2147,7 +2147,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                32%, to {
+                27%, to {
                     fill: var(--c0);
                 }
             }
@@ -2158,7 +2158,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                64%, to {
+                79%, to {
                     fill: var(--c0);
                 }
             }
@@ -2169,7 +2169,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                50%, to {
+                47%, to {
                     fill: var(--c0);
                 }
             }
@@ -2180,7 +2180,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                42%, to {
+                8%, to {
                     fill: var(--c0);
                 }
             }
@@ -2191,7 +2191,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                74%, to {
+                40%, to {
                     fill: var(--c0);
                 }
             }
@@ -2202,7 +2202,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                75%, to {
+                8%, to {
                     fill: var(--c0);
                 }
             }
@@ -2213,7 +2213,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                34%, to {
+                18%, to {
                     fill: var(--c0);
                 }
             }
@@ -2224,7 +2224,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                41%, to {
+                12%, to {
                     fill: var(--c0);
                 }
             }
@@ -2235,7 +2235,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                89%, to {
+                57%, to {
                     fill: var(--c0);
                 }
             }
@@ -2246,7 +2246,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                30%, to {
+                9%, to {
                     fill: var(--c0);
                 }
             }
@@ -2257,7 +2257,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                30%, to {
+                53%, to {
                     fill: var(--c0);
                 }
             }
@@ -2268,7 +2268,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                70%, to {
+                73%, to {
                     fill: var(--c0);
                 }
             }
@@ -2279,7 +2279,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                6%, to {
+                35%, to {
                     fill: var(--c0);
                 }
             }
@@ -2290,7 +2290,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                57%, to {
+                70%, to {
                     fill: var(--c0);
                 }
             }
@@ -2301,7 +2301,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                71%, to {
+                61%, to {
                     fill: var(--c0);
                 }
             }
@@ -2312,7 +2312,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                75%, to {
+                87%, to {
                     fill: var(--c0);
                 }
             }
@@ -2323,7 +2323,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                64%, to {
+                65%, to {
                     fill: var(--c0);
                 }
             }
@@ -2334,7 +2334,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                69%, to {
+                46%, to {
                     fill: var(--c0);
                 }
             }
@@ -2345,7 +2345,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                17%, to {
+                47%, to {
                     fill: var(--c0);
                 }
             }
@@ -2356,7 +2356,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                36%, to {
+                21%, to {
                     fill: var(--c0);
                 }
             }
@@ -2367,7 +2367,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                31%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -2378,7 +2378,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                29%, to {
+                8%, to {
                     fill: var(--c0);
                 }
             }
@@ -2389,7 +2389,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                23%, to {
+                6%, to {
                     fill: var(--c0);
                 }
             }
@@ -2400,7 +2400,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                23%, to {
+                85%, to {
                     fill: var(--c0);
                 }
             }
@@ -2411,7 +2411,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                89%, to {
+                79%, to {
                     fill: var(--c0);
                 }
             }
@@ -2422,7 +2422,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                32%, to {
+                53%, to {
                     fill: var(--c0);
                 }
             }
@@ -2433,7 +2433,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                46%, to {
+                75%, to {
                     fill: var(--c0);
                 }
             }
@@ -2444,7 +2444,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                56%, to {
+                70%, to {
                     fill: var(--c0);
                 }
             }
@@ -2455,7 +2455,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                66%, to {
+                38%, to {
                     fill: var(--c0);
                 }
             }
@@ -2466,7 +2466,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                60%, to {
+                81%, to {
                     fill: var(--c0);
                 }
             }
@@ -2477,7 +2477,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                59%, to {
+                53%, to {
                     fill: var(--c0);
                 }
             }
@@ -2488,7 +2488,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                14%, to {
+                3%, to {
                     fill: var(--c0);
                 }
             }
@@ -2499,7 +2499,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                54%, to {
+                38%, to {
                     fill: var(--c0);
                 }
             }
@@ -2510,7 +2510,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                62%, to {
+                4%, to {
                     fill: var(--c0);
                 }
             }
@@ -2521,7 +2521,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                6%, to {
+                76%, to {
                     fill: var(--c0);
                 }
             }
@@ -2532,7 +2532,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                18%, to {
+                5%, to {
                     fill: var(--c0);
                 }
             }
@@ -2543,7 +2543,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                21%, to {
+                73%, to {
                     fill: var(--c0);
                 }
             }
@@ -2554,7 +2554,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                34%, to {
+                27%, to {
                     fill: var(--c0);
                 }
             }
@@ -2565,7 +2565,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                40%, to {
+                64%, to {
                     fill: var(--c0);
                 }
             }
@@ -2576,7 +2576,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                12%, to {
+                65%, to {
                     fill: var(--c0);
                 }
             }
@@ -2587,7 +2587,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                20%, to {
+                25%, to {
                     fill: var(--c0);
                 }
             }
@@ -2598,7 +2598,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                6%, to {
+                48%, to {
                     fill: var(--c0);
                 }
             }
@@ -2609,7 +2609,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                3%, to {
+                17%, to {
                     fill: var(--c0);
                 }
             }
@@ -2620,7 +2620,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                28%, to {
+                81%, to {
                     fill: var(--c0);
                 }
             }
@@ -2631,7 +2631,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                86%, to {
+                27%, to {
                     fill: var(--c0);
                 }
             }
@@ -2642,7 +2642,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                14%, to {
+                55%, to {
                     fill: var(--c0);
                 }
             }
@@ -2653,7 +2653,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                35%, to {
+                83%, to {
                     fill: var(--c0);
                 }
             }
@@ -2664,7 +2664,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                55%, to {
+                2%, to {
                     fill: var(--c0);
                 }
             }
@@ -2675,7 +2675,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                49%, to {
+                45%, to {
                     fill: var(--c0);
                 }
             }
@@ -2686,7 +2686,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                25%, to {
+                32%, to {
                     fill: var(--c0);
                 }
             }
@@ -2697,7 +2697,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                68%, to {
+                23%, to {
                     fill: var(--c0);
                 }
             }
@@ -2708,7 +2708,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                58%, to {
+                66%, to {
                     fill: var(--c0);
                 }
             }
@@ -2719,7 +2719,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                20%, to {
+                27%, to {
                     fill: var(--c0);
                 }
             }
@@ -2730,7 +2730,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                9%, to {
+                67%, to {
                     fill: var(--c0);
                 }
             }
@@ -2741,7 +2741,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                90%, to {
+                32%, to {
                     fill: var(--c0);
                 }
             }
@@ -2752,7 +2752,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                60%, to {
+                44%, to {
                     fill: var(--c0);
                 }
             }
@@ -2763,7 +2763,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                18%, to {
+                67%, to {
                     fill: var(--c0);
                 }
             }
@@ -2774,7 +2774,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                5%, to {
+                53%, to {
                     fill: var(--c0);
                 }
             }
@@ -2785,7 +2785,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                13%, to {
+                6%, to {
                     fill: var(--c0);
                 }
             }
@@ -2796,7 +2796,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                36%, to {
+                51%, to {
                     fill: var(--c0);
                 }
             }
@@ -2807,7 +2807,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                41%, to {
+                86%, to {
                     fill: var(--c0);
                 }
             }
@@ -2818,7 +2818,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                48%, to {
+                43%, to {
                     fill: var(--c0);
                 }
             }
@@ -2829,7 +2829,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                41%, to {
+                79%, to {
                     fill: var(--c0);
                 }
             }
@@ -2840,7 +2840,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                75%, to {
+                86%, to {
                     fill: var(--c0);
                 }
             }
@@ -2851,7 +2851,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                42%, to {
+                70%, to {
                     fill: var(--c0);
                 }
             }
@@ -2862,7 +2862,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                54%, to {
+                18%, to {
                     fill: var(--c0);
                 }
             }
@@ -2873,7 +2873,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                51%, to {
+                83%, to {
                     fill: var(--c0);
                 }
             }
@@ -2884,7 +2884,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                37%, to {
+                28%, to {
                     fill: var(--c0);
                 }
             }
@@ -2895,7 +2895,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                36%, to {
+                14%, to {
                     fill: var(--c0);
                 }
             }
@@ -2906,7 +2906,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                44%, to {
+                45%, to {
                     fill: var(--c0);
                 }
             }
@@ -2917,7 +2917,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                62%, to {
+                89%, to {
                     fill: var(--c0);
                 }
             }
@@ -2928,7 +2928,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                1%, to {
+                64%, to {
                     fill: var(--c0);
                 }
             }
@@ -2939,7 +2939,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                1%, to {
+                62%, to {
                     fill: var(--c0);
                 }
             }
@@ -2950,7 +2950,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                11%, to {
+                89%, to {
                     fill: var(--c0);
                 }
             }
@@ -2961,7 +2961,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                49%, to {
+                7%, to {
                     fill: var(--c0);
                 }
             }
@@ -2972,7 +2972,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                31%, to {
+                62%, to {
                     fill: var(--c0);
                 }
             }
@@ -2983,7 +2983,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                28%, to {
+                74%, to {
                     fill: var(--c0);
                 }
             }
@@ -2994,7 +2994,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                11%, to {
+                76%, to {
                     fill: var(--c0);
                 }
             }
@@ -3005,7 +3005,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                68%, to {
+                45%, to {
                     fill: var(--c0);
                 }
             }
@@ -3016,7 +3016,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                25%, to {
+                58%, to {
                     fill: var(--c0);
                 }
             }
@@ -3027,7 +3027,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                40%, to {
+                71%, to {
                     fill: var(--c0);
                 }
             }
@@ -3038,7 +3038,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                58%, to {
+                8%, to {
                     fill: var(--c0);
                 }
             }
@@ -3049,7 +3049,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                30%, to {
+                34%, to {
                     fill: var(--c0);
                 }
             }
@@ -3060,7 +3060,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                37%, to {
+                40%, to {
                     fill: var(--c0);
                 }
             }
@@ -3071,7 +3071,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                11%, to {
+                7%, to {
                     fill: var(--c0);
                 }
             }
@@ -3082,7 +3082,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                2%, to {
+                11%, to {
                     fill: var(--c0);
                 }
             }
@@ -3093,7 +3093,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                76%, to {
+                49%, to {
                     fill: var(--c0);
                 }
             }
@@ -3104,7 +3104,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                60%, to {
+                80%, to {
                     fill: var(--c0);
                 }
             }
@@ -3115,7 +3115,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                75%, to {
+                68%, to {
                     fill: var(--c0);
                 }
             }
@@ -3126,7 +3126,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                10%, to {
+                57%, to {
                     fill: var(--c0);
                 }
             }
@@ -3137,7 +3137,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                6%, to {
+                63%, to {
                     fill: var(--c0);
                 }
             }
@@ -3148,7 +3148,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                22%, to {
+                31%, to {
                     fill: var(--c0);
                 }
             }
@@ -3159,7 +3159,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                40%, to {
+                43%, to {
                     fill: var(--c0);
                 }
             }
@@ -3170,7 +3170,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                44%, to {
+                76%, to {
                     fill: var(--c0);
                 }
             }
@@ -3181,7 +3181,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                67%, to {
+                12%, to {
                     fill: var(--c0);
                 }
             }
@@ -3203,7 +3203,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                22%, to {
+                33%, to {
                     fill: var(--c0);
                 }
             }
@@ -3214,7 +3214,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                4%, to {
+                46%, to {
                     fill: var(--c0);
                 }
             }
@@ -3225,7 +3225,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                83%, to {
+                58%, to {
                     fill: var(--c0);
                 }
             }
@@ -3236,7 +3236,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                22%, to {
+                66%, to {
                     fill: var(--c0);
                 }
             }
@@ -3247,7 +3247,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                5%, to {
+                32%, to {
                     fill: var(--c0);
                 }
             }
@@ -3258,7 +3258,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                27%, to {
+                21%, to {
                     fill: var(--c0);
                 }
             }
@@ -3269,7 +3269,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                37%, to {
+                55%, to {
                     fill: var(--c0);
                 }
             }
@@ -3280,7 +3280,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                17%, to {
+                42%, to {
                     fill: var(--c0);
                 }
             }
@@ -3291,7 +3291,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                56%, to {
+                7%, to {
                     fill: var(--c0);
                 }
             }
@@ -3302,7 +3302,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                63%, to {
+                50%, to {
                     fill: var(--c0);
                 }
             }
@@ -3313,7 +3313,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                43%, to {
+                76%, to {
                     fill: var(--c0);
                 }
             }
@@ -3324,7 +3324,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                7%, to {
+                9%, to {
                     fill: var(--c0);
                 }
             }
@@ -3335,7 +3335,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                66%, to {
+                57%, to {
                     fill: var(--c0);
                 }
             }
@@ -3346,7 +3346,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                88%, to {
+                2%, to {
                     fill: var(--c0);
                 }
             }
@@ -3357,7 +3357,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                9%, to {
+                19%, to {
                     fill: var(--c0);
                 }
             }
@@ -3368,7 +3368,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                71%, to {
+                32%, to {
                     fill: var(--c0);
                 }
             }
@@ -3379,7 +3379,7 @@ transform: rotate(0deg)
                 0%, from {
                     fill: var(--c4);
                 }
-                83%, to {
+                56%, to {
                     fill: var(--c0);
                 }
             }
@@ -3408,7 +3408,7 @@ transform: rotate(0deg)
         </g>
         <g transform="translate(32, 0)">
             <rect width="11" height="11" x="14" y="0" class="o" data-date="2022-02-27" data-level="0" rx="2" ry="2">No contributions on February 27, 2022</rect>
-            <rect width="11" height="11" x="14" y="15" class="o c c127" data-date="2022-02-28" data-level="2" rx="2" ry="2">3 contributions on February 28, 2022</rect>
+            <rect width="11" height="11" x="14" y="15" class="o c c127" data-date="2022-02-28" data-level="3" rx="2" ry="2">3 contributions on February 28, 2022</rect>
             <rect width="11" height="11" x="14" y="30" class="o c c128" data-date="2022-03-01" data-level="1" rx="2" ry="2">1 contribution on March 1, 2022</rect>
             <rect width="11" height="11" x="14" y="45" class="o c c129" data-date="2022-03-02" data-level="1" rx="2" ry="2">1 contribution on March 2, 2022</rect>
             <rect width="11" height="11" x="14" y="60" class="o c c130" data-date="2022-03-03" data-level="1" rx="2" ry="2">1 contribution on March 3, 2022</rect>
@@ -3418,7 +3418,7 @@ transform: rotate(0deg)
         <g transform="translate(48, 0)">
             <rect width="11" height="11" x="13" y="0" class="o" data-date="2022-03-06" data-level="0" rx="2" ry="2">No contributions on March 6, 2022</rect>
             <rect width="11" height="11" x="13" y="15" class="o c c0" data-date="2022-03-07" data-level="2" rx="2" ry="2">2 contributions on March 7, 2022</rect>
-            <rect width="11" height="11" x="13" y="30" class="o c c1" data-date="2022-03-08" data-level="2" rx="2" ry="2">3 contributions on March 8, 2022</rect>
+            <rect width="11" height="11" x="13" y="30" class="o c c1" data-date="2022-03-08" data-level="3" rx="2" ry="2">3 contributions on March 8, 2022</rect>
             <rect width="11" height="11" x="13" y="45" class="o c c2" data-date="2022-03-09" data-level="2" rx="2" ry="2">2 contributions on March 9, 2022</rect>
             <rect width="11" height="11" x="13" y="60" class="o c c3" data-date="2022-03-10" data-level="1" rx="2" ry="2">1 contribution on March 10, 2022</rect>
             <rect width="11" height="11" x="13" y="75" class="o c c4" data-date="2022-03-11" data-level="1" rx="2" ry="2">1 contribution on March 11, 2022</rect>
@@ -3453,7 +3453,7 @@ transform: rotate(0deg)
         </g>
         <g transform="translate(112, 0)">
             <rect width="11" height="11" x="9" y="0" class="o c c148" data-date="2022-04-03" data-level="1" rx="2" ry="2">1 contribution on April 3, 2022</rect>
-            <rect width="11" height="11" x="9" y="15" class="o c c11" data-date="2022-04-04" data-level="2" rx="2" ry="2">3 contributions on April 4, 2022</rect>
+            <rect width="11" height="11" x="9" y="15" class="o c c11" data-date="2022-04-04" data-level="3" rx="2" ry="2">3 contributions on April 4, 2022</rect>
             <rect width="11" height="11" x="9" y="30" class="o c c149" data-date="2022-04-05" data-level="1" rx="2" ry="2">1 contribution on April 5, 2022</rect>
             <rect width="11" height="11" x="9" y="45" class="o c c150" data-date="2022-04-06" data-level="1" rx="2" ry="2">1 contribution on April 6, 2022</rect>
             <rect width="11" height="11" x="9" y="60" class="o c c151" data-date="2022-04-07" data-level="1" rx="2" ry="2">1 contribution on April 7, 2022</rect>
@@ -3507,7 +3507,7 @@ transform: rotate(0deg)
         </g>
         <g transform="translate(208, 0)">
             <rect width="11" height="11" x="3" y="0" class="o c c176" data-date="2022-05-15" data-level="1" rx="2" ry="2">1 contribution on May 15, 2022</rect>
-            <rect width="11" height="11" x="3" y="15" class="o c c25" data-date="2022-05-16" data-level="3" rx="2" ry="2">4 contributions on May 16, 2022</rect>
+            <rect width="11" height="11" x="3" y="15" class="o c c25" data-date="2022-05-16" data-level="4" rx="2" ry="2">4 contributions on May 16, 2022</rect>
             <rect width="11" height="11" x="3" y="30" class="o c c26" data-date="2022-05-17" data-level="2" rx="2" ry="2">2 contributions on May 17, 2022</rect>
             <rect width="11" height="11" x="3" y="45" class="o c c27" data-date="2022-05-18" data-level="1" rx="2" ry="2">1 contribution on May 18, 2022</rect>
             <rect width="11" height="11" x="3" y="60" class="o c c28" data-date="2022-05-19" data-level="1" rx="2" ry="2">1 contribution on May 19, 2022</rect>
@@ -3519,22 +3519,22 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="2" y="15" class="o c c178" data-date="2022-05-23" data-level="1" rx="2" ry="2">1 contribution on May 23, 2022</rect>
             <rect width="11" height="11" x="2" y="30" class="o c c179" data-date="2022-05-24" data-level="1" rx="2" ry="2">1 contribution on May 24, 2022</rect>
             <rect width="11" height="11" x="2" y="45" class="o c c180" data-date="2022-05-25" data-level="1" rx="2" ry="2">1 contribution on May 25, 2022</rect>
-            <rect width="11" height="11" x="2" y="60" class="o c c181" data-date="2022-05-26" data-level="3" rx="2" ry="2">4 contributions on May 26, 2022</rect>
-            <rect width="11" height="11" x="2" y="75" class="o c c182" data-date="2022-05-27" data-level="3" rx="2" ry="2">4 contributions on May 27, 2022</rect>
+            <rect width="11" height="11" x="2" y="60" class="o c c181" data-date="2022-05-26" data-level="4" rx="2" ry="2">4 contributions on May 26, 2022</rect>
+            <rect width="11" height="11" x="2" y="75" class="o c c182" data-date="2022-05-27" data-level="4" rx="2" ry="2">4 contributions on May 27, 2022</rect>
             <rect width="11" height="11" x="2" y="90" class="o c c183" data-date="2022-05-28" data-level="1" rx="2" ry="2">1 contribution on May 28, 2022</rect>
         </g>
         <g transform="translate(240, 0)">
             <rect width="11" height="11" x="1" y="0" class="o c c31" data-date="2022-05-29" data-level="1" rx="2" ry="2">1 contribution on May 29, 2022</rect>
-            <rect width="11" height="11" x="1" y="15" class="o c c32" data-date="2022-05-30" data-level="2" rx="2" ry="2">3 contributions on May 30, 2022</rect>
+            <rect width="11" height="11" x="1" y="15" class="o c c32" data-date="2022-05-30" data-level="3" rx="2" ry="2">3 contributions on May 30, 2022</rect>
             <rect width="11" height="11" x="1" y="30" class="o c c33" data-date="2022-05-31" data-level="2" rx="2" ry="2">2 contributions on May 31, 2022</rect>
-            <rect width="11" height="11" x="1" y="45" class="o c c34" data-date="2022-06-01" data-level="3" rx="2" ry="2">4 contributions on June 1, 2022</rect>
+            <rect width="11" height="11" x="1" y="45" class="o c c34" data-date="2022-06-01" data-level="4" rx="2" ry="2">4 contributions on June 1, 2022</rect>
             <rect width="11" height="11" x="1" y="60" class="o c c35" data-date="2022-06-02" data-level="1" rx="2" ry="2">1 contribution on June 2, 2022</rect>
-            <rect width="11" height="11" x="1" y="75" class="o c c184" data-date="2022-06-03" data-level="2" rx="2" ry="2">3 contributions on June 3, 2022</rect>
+            <rect width="11" height="11" x="1" y="75" class="o c c184" data-date="2022-06-03" data-level="3" rx="2" ry="2">3 contributions on June 3, 2022</rect>
             <rect width="11" height="11" x="1" y="90" class="o c c185" data-date="2022-06-04" data-level="1" rx="2" ry="2">1 contribution on June 4, 2022</rect>
         </g>
         <g transform="translate(256, 0)">
             <rect width="11" height="11" x="0" y="0" class="o c c186" data-date="2022-06-05" data-level="1" rx="2" ry="2">1 contribution on June 5, 2022</rect>
-            <rect width="11" height="11" x="0" y="15" class="o c c187" data-date="2022-06-06" data-level="2" rx="2" ry="2">3 contributions on June 6, 2022</rect>
+            <rect width="11" height="11" x="0" y="15" class="o c c187" data-date="2022-06-06" data-level="3" rx="2" ry="2">3 contributions on June 6, 2022</rect>
             <rect width="11" height="11" x="0" y="30" class="o c c188" data-date="2022-06-07" data-level="1" rx="2" ry="2">1 contribution on June 7, 2022</rect>
             <rect width="11" height="11" x="0" y="45" class="o c c189" data-date="2022-06-08" data-level="1" rx="2" ry="2">1 contribution on June 8, 2022</rect>
             <rect width="11" height="11" x="0" y="60" class="o c c190" data-date="2022-06-09" data-level="1" rx="2" ry="2">1 contribution on June 9, 2022</rect>
@@ -3547,12 +3547,12 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-1" y="30" class="o c c194" data-date="2022-06-14" data-level="1" rx="2" ry="2">1 contribution on June 14, 2022</rect>
             <rect width="11" height="11" x="-1" y="45" class="o c c195" data-date="2022-06-15" data-level="1" rx="2" ry="2">1 contribution on June 15, 2022</rect>
             <rect width="11" height="11" x="-1" y="60" class="o c c196" data-date="2022-06-16" data-level="1" rx="2" ry="2">1 contribution on June 16, 2022</rect>
-            <rect width="11" height="11" x="-1" y="75" class="o c c197" data-date="2022-06-17" data-level="2" rx="2" ry="2">3 contributions on June 17, 2022</rect>
+            <rect width="11" height="11" x="-1" y="75" class="o c c197" data-date="2022-06-17" data-level="3" rx="2" ry="2">3 contributions on June 17, 2022</rect>
             <rect width="11" height="11" x="-1" y="90" class="o c c37" data-date="2022-06-18" data-level="2" rx="2" ry="2">2 contributions on June 18, 2022</rect>
         </g>
         <g transform="translate(288, 0)">
             <rect width="11" height="11" x="-2" y="0" class="o c c198" data-date="2022-06-19" data-level="2" rx="2" ry="2">2 contributions on June 19, 2022</rect>
-            <rect width="11" height="11" x="-2" y="15" class="o c c199" data-date="2022-06-20" data-level="3" rx="2" ry="2">5 contributions on June 20, 2022</rect>
+            <rect width="11" height="11" x="-2" y="15" class="o c c199" data-date="2022-06-20" data-level="4" rx="2" ry="2">5 contributions on June 20, 2022</rect>
             <rect width="11" height="11" x="-2" y="30" class="o c c200" data-date="2022-06-21" data-level="1" rx="2" ry="2">1 contribution on June 21, 2022</rect>
             <rect width="11" height="11" x="-2" y="45" class="o c c201" data-date="2022-06-22" data-level="1" rx="2" ry="2">1 contribution on June 22, 2022</rect>
             <rect width="11" height="11" x="-2" y="60" class="o c c202" data-date="2022-06-23" data-level="1" rx="2" ry="2">1 contribution on June 23, 2022</rect>
@@ -3564,7 +3564,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-3" y="15" class="o c c40" data-date="2022-06-27" data-level="0" rx="2" ry="2">No contributions on June 27, 2022</rect>
             <rect width="11" height="11" x="-3" y="30" class="o c c41" data-date="2022-06-28" data-level="1" rx="2" ry="2">1 contribution on June 28, 2022</rect>
             <rect width="11" height="11" x="-3" y="45" class="o c c42" data-date="2022-06-29" data-level="1" rx="2" ry="2">1 contribution on June 29, 2022</rect>
-            <rect width="11" height="11" x="-3" y="60" class="o c c43" data-date="2022-06-30" data-level="2" rx="2" ry="2">3 contributions on June 30, 2022</rect>
+            <rect width="11" height="11" x="-3" y="60" class="o c c43" data-date="2022-06-30" data-level="3" rx="2" ry="2">3 contributions on June 30, 2022</rect>
             <rect width="11" height="11" x="-3" y="75" class="o c c203" data-date="2022-07-01" data-level="2" rx="2" ry="2">2 contributions on July 1, 2022</rect>
             <rect width="11" height="11" x="-3" y="90" class="o c c204" data-date="2022-07-02" data-level="1" rx="2" ry="2">1 contribution on July 2, 2022</rect>
         </g>
@@ -3625,8 +3625,8 @@ transform: rotate(0deg)
         <g transform="translate(416, 0)">
             <rect width="11" height="11" x="-10" y="0" class="o" data-date="2022-08-14" data-level="0" rx="2" ry="2">No contributions on August 14, 2022</rect>
             <rect width="11" height="11" x="-10" y="15" class="o c c225" data-date="2022-08-15" data-level="1" rx="2" ry="2">1 contribution on August 15, 2022</rect>
-            <rect width="11" height="11" x="-10" y="30" class="o c c226" data-date="2022-08-16" data-level="2" rx="2" ry="2">3 contributions on August 16, 2022</rect>
-            <rect width="11" height="11" x="-10" y="45" class="o c c227" data-date="2022-08-17" data-level="3" rx="2" ry="2">4 contributions on August 17, 2022</rect>
+            <rect width="11" height="11" x="-10" y="30" class="o c c226" data-date="2022-08-16" data-level="3" rx="2" ry="2">3 contributions on August 16, 2022</rect>
+            <rect width="11" height="11" x="-10" y="45" class="o c c227" data-date="2022-08-17" data-level="4" rx="2" ry="2">4 contributions on August 17, 2022</rect>
             <rect width="11" height="11" x="-10" y="60" class="o c c228" data-date="2022-08-18" data-level="1" rx="2" ry="2">1 contribution on August 18, 2022</rect>
             <rect width="11" height="11" x="-10" y="75" class="o c c229" data-date="2022-08-19" data-level="1" rx="2" ry="2">1 contribution on August 19, 2022</rect>
             <rect width="11" height="11" x="-10" y="90" class="o c c230" data-date="2022-08-20" data-level="1" rx="2" ry="2">1 contribution on August 20, 2022</rect>
@@ -3727,7 +3727,7 @@ transform: rotate(0deg)
             <rect width="11" height="11" x="-21" y="30" class="o" data-date="2022-11-01" data-level="0" rx="2" ry="2">No contributions on November 1, 2022</rect>
             <rect width="11" height="11" x="-21" y="45" class="o" data-date="2022-11-02" data-level="0" rx="2" ry="2">No contributions on November 2, 2022</rect>
             <rect width="11" height="11" x="-21" y="60" class="o c c246" data-date="2022-11-03" data-level="1" rx="2" ry="2">1 contribution on November 3, 2022</rect>
-            <rect width="11" height="11" x="-21" y="75" class="o c c247" data-date="2022-11-04" data-level="2" rx="2" ry="2">3 contributions on November 4, 2022</rect>
+            <rect width="11" height="11" x="-21" y="75" class="o c c247" data-date="2022-11-04" data-level="3" rx="2" ry="2">3 contributions on November 4, 2022</rect>
             <rect width="11" height="11" x="-21" y="90" class="o c c96" data-date="2022-11-05" data-level="0" rx="2" ry="2">No contributions on November 5, 2022</rect>
         </g>
         <g transform="translate(608, 0)">
@@ -3858,6 +3858,7 @@ transform: rotate(0deg)
         </g>
         <g transform="translate(832, 0)">
             <rect width="11" height="11" x="-36" y="0" class="o" data-date="2023-02-12" data-level="0" rx="2" ry="2">No contributions on February 12, 2023</rect>
+            <rect width="11" height="11" x="-36" y="15" class="o" data-date="2023-02-13" data-level="0" rx="2" ry="2">No contributions on February 13, 2023</rect>
         </g>
 
         
