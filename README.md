@@ -1,3 +1,3 @@
 ![gitartwork](gitartwork.svg)
 
-I’m a fourth-year PhD candidate at Johns Hopkins University doing research in quantum chemistry.
+I’m a fifth-year quantum chemistry PhD candidate at Johns Hopkins University.
